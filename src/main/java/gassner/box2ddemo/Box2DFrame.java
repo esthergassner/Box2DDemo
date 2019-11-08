@@ -7,7 +7,7 @@ public class Box2DFrame extends JFrame
 {
     public Box2DFrame()
     {
-        setSize(800, 600);
+        setSize(1200, 1000);
         setTitle("Box 2D Demo");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
